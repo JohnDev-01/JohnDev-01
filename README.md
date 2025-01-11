@@ -5,21 +5,21 @@
 <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
  </p>
 	
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
- <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
-</p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+<br><br>
+
+- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :trophy: 2x `ACPC` Finalist.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+<br>
 
 <br>
 
